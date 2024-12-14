@@ -6,13 +6,13 @@ Hello, I'm Abanoub Magdy!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<picture align="center"> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/master/Images/Right_Side.gif?raw=true" width = 300px></picture>
 <hr>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0D0069FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Always+learning+new+things;Flutter+Developer"></a>
 
 </p>
 <pre>
+	<picture align="center"> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/master/Images/Right_Side.gif?raw=true" width = 300px></picture>
 💻 I am mainly a App Developer
 📝 I have a strong interest in Software Engineering and Design
 🌟 Main language: Dart 😁
